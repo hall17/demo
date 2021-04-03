@@ -7,54 +7,6 @@
 "startMinute": 30,
 "finishHour": 18,
 "finishMinute": 0
-},
-  {
-"day": "Tuesday",
-"isHoliday": false,
-"startHour": 8,
-"startMinute": 30,
-"finishHour": 18,
-"finishMinute": 0
-},
-  {
-"day": "Wednesday",
-"isHoliday": false,
-"startHour": 8,
-"startMinute": 30,
-"finishHour": 18,
-"finishMinute": 0
-},
-  {
-"day": "Thursday",
-"isHoliday": false,
-"startHour": 8,
-"startMinute": 30,
-"finishHour": 18,
-"finishMinute": 0
-},
-  {
-"day": "Friday",
-"isHoliday": false,
-"startHour": 8,
-"startMinute": 30,
-"finishHour": 18,
-"finishMinute": 0
-},
-  {
-"day": "Saturday",
-"isHoliday": false,
-"startHour": 8,
-"startMinute": 30,
-"finishHour": 18,
-"finishMinute": 0
-},
-  {
-"day": "Sunday",
-"isHoliday": false,
-"startHour": 8,
-"startMinute": 30,
-"finishHour": 18,
-"finishMinute": 0
 }
 ],
 "default": {
