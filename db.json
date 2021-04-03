@@ -1,7 +1,7 @@
 {
 "shift" : [
 {
-"day": "Monday",
+"day": "monday",
 "isHoliday": false,
 "startHour": 8,
 "startMinute": 30,
