@@ -1,6 +1,5 @@
 {
 "shift" : [
-// For monday
 {
 "isHoliday": false,
 "startHour": 8,
@@ -8,7 +7,6 @@
 "finishHour": 18,
 "finishMinute": 0
 }
-// Populate this array for other days
 ],
 "default": {
 "startHour": 8,
