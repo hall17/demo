@@ -1,7 +1,17 @@
 {
-  "user": {
-    "id" : 1,
-    "firstName": "Anthony",
-    "lastName": "Sistilli"
-  }
+shift = [
+// For monday
+{
+isHoliday: false,
+startHour: 8,
+startMinute: 30,
+finishHour: 18,
+finishMinute: 0
+}
+// Populate this array for other days
+],
+default: {
+startHour: 8,
+startMinute: 30
+}
 }
