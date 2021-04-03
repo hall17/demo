@@ -3,30 +3,22 @@
 {
 "day": "Monday",
 "isHoliday": false,
-"startHour": 8,
-"startMinute": 30,
-"finishHour": 18,
-"finishMinute": 0
+"startHour": "08",
+"startMinute": "30",
+"finishHour": "18",
+"finishMinute": "00"
 },
   {
 "day": "Tuesday",
 "isHoliday": false,
-"startHour": 8,
-"startMinute": 30,
-"finishHour": 18,
-"finishMinute": 0
-},
-  {
-"day": "Wednesday",
-"isHoliday": false,
-"startHour": 8,
-"startMinute": 30,
-"finishHour": 18,
-"finishMinute": 0
+"startHour": "08",
+"startMinute": "30",
+"finishHour": "18",
+"finishMinute": "00"
 },
 ],
 "default": {
-"startHour": 8,
-"startMinute": 30
+"startHour": "08",
+"startMinute": "30"
 }
 }
